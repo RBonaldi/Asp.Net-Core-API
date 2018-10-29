@@ -1,0 +1,14 @@
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Domain.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Infra.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.csprojAssemblyReference.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.csproj.CoreCompileInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.AssemblyInfoInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.AssemblyInfo.cs
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Service.deps.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Service.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Service.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Domain.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\bin\Debug\netcoreapp2.1\Modelo.Infra.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.csproj.CopyComplete
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Service\obj\Debug\netcoreapp2.1\Modelo.Service.pdb

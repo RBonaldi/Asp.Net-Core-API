@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.1.0-preview1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo.Domain\Modelo.Domain.csproj" />
+    <ProjectReference Include="..\Modelo.Infra\Modelo.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

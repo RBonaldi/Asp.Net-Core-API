@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Modelo.Application",
+    "\\Modelo.Domain",
+    "\\Modelo.Infra",
+    "\\Modelo.Service"
+  ],
+  "PreviewInSolutionExplorer": false
+}

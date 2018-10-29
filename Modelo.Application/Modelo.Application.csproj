@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo.Domain\Modelo.Domain.csproj" />
+    <ProjectReference Include="..\Modelo.Identity\Modelo.Identity.csproj" />
+    <ProjectReference Include="..\Modelo.IoC\Modelo.IoC.csproj" />
+    <ProjectReference Include="..\Modelo.Service\Modelo.Service.csproj" />
+  </ItemGroup>
+
+</Project>

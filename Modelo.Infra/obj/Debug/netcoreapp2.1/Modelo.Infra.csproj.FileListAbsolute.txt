@@ -1,0 +1,14 @@
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Infra.deps.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Infra.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.AssemblyInfoInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.AssemblyInfo.cs
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Infra.runtimeconfig.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Infra.runtimeconfig.dev.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.csprojAssemblyReference.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Infra.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Domain.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\bin\Debug\netcoreapp2.1\Modelo.Domain.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.csproj.CopyComplete
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Infra\obj\Debug\netcoreapp2.1\Modelo.Infra.pdb

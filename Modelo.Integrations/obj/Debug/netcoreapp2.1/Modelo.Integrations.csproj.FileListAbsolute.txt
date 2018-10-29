@@ -1,0 +1,14 @@
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\bin\Debug\netcoreapp2.1\Modelo.Identity.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.csprojAssemblyReference.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.MRVFramework.Messages.Message.resources
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.csproj.GenerateResource.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.csproj.CoreCompileInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.AssemblyInfoInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.AssemblyInfo.cs
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\bin\Debug\netcoreapp2.1\Modelo.Integrations.deps.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\bin\Debug\netcoreapp2.1\Modelo.Integrations.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\bin\Debug\netcoreapp2.1\Modelo.Integrations.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\bin\Debug\netcoreapp2.1\Modelo.Identity.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.csproj.CopyComplete
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Integrations\obj\Debug\netcoreapp2.1\Modelo.Integrations.pdb

@@ -1,0 +1,254 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "2dfda0112bf0ecaab9153beb2cb90e9f8f18bdeb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Modelo.Integrations/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "2.2.0-preview3-35497",
+          "Modelo.Identity": "1.0.0",
+          "System.ServiceModel.Duplex": "4.5.3",
+          "System.ServiceModel.Http": "4.5.3",
+          "System.ServiceModel.NetTcp": "4.5.3",
+          "System.ServiceModel.Primitives": "4.5.3",
+          "System.ServiceModel.Security": "4.5.3"
+        },
+        "runtime": {
+          "Modelo.Integrations.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/2.2.0-preview3-35497": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0-preview3-35497"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18287"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/2.2.0-preview3-35497": {
+        "dependencies": {
+          "System.Memory": "4.5.1",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18287"
+          }
+        }
+      },
+      "System.Memory/4.5.1": {},
+      "System.Private.ServiceModel/4.5.3": {
+        "dependencies": {
+          "System.Reflection.DispatchProxy": "4.5.0",
+          "System.Security.Principal.Windows": "4.5.0"
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.Reflection.DispatchProxy/4.5.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.5.0": {
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.ServiceModel.Duplex/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3",
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Duplex.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.ServiceModel.Http/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3",
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Http.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.ServiceModel.NetTcp/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3",
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.NetTcp.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.ServiceModel.Primitives/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Primitives.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "lib/netstandard2.0/System.ServiceModel.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.ServiceModel.Security/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3",
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Security.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "Modelo.Identity/1.0.0": {
+        "runtime": {
+          "Modelo.Identity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo.Integrations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/2.2.0-preview3-35497": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2htmHv8wTCIO5p3VI4NRHbFlVfM+0ChaP5YfJ4dSNs2Rx/MlVi/ty6R5yboYSz5Tpf2SVzPNSPWCNJ/d8PVvQw==",
+      "path": "microsoft.extensions.configuration.abstractions/2.2.0-preview3-35497",
+      "hashPath": "microsoft.extensions.configuration.abstractions.2.2.0-preview3-35497.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/2.2.0-preview3-35497": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+IF1kn9v+Yaj9cnOiVfIYgkD70R5lZwoPwvCx42Jphex4XyI/kbO+/8itgwcFMvHxRseDSsmCk4Cbz7665mS3A==",
+      "path": "microsoft.extensions.primitives/2.2.0-preview3-35497",
+      "hashPath": "microsoft.extensions.primitives.2.2.0-preview3-35497.nupkg.sha512"
+    },
+    "System.Memory/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vcG3/MbfpxznMkkkaAblJi7RHOmuP7kawQMhDgLSuA1tRpRQYsFSCTxRSINDUgn2QNn2jWeLxv8er5BXbyACkw==",
+      "path": "system.memory/4.5.1",
+      "hashPath": "system.memory.4.5.1.nupkg.sha512"
+    },
+    "System.Private.ServiceModel/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DlM+Oit5vR/q200FalhmmNzoZRMe1xMG9RwMmeFtWS/ZuQK7A3qI7p8BtpUQvilnT24KOqZfabcCelW9s5jGzQ==",
+      "path": "system.private.servicemodel/4.5.3",
+      "hashPath": "system.private.servicemodel.4.5.3.nupkg.sha512"
+    },
+    "System.Reflection.DispatchProxy/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U1bUKAlBWML/URLb8Fx8qFgyA5W0b46pX+FGanvl+mnL7JoCRR0OwhHQ6xkAWGBI3nLHEY9mU75MSaeve18aCw==",
+      "path": "system.reflection.dispatchproxy/4.5.0",
+      "hashPath": "system.reflection.dispatchproxy.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WA9ETb/pY3BjnxKjBUHEgO59B7d/nnmjHFsqjJ2eDT780nD769CT1/bw2ia0Z6W7NqlcqokE6sKGKa6uw88XGA==",
+      "path": "system.security.principal.windows/4.5.0",
+      "hashPath": "system.security.principal.windows.4.5.0.nupkg.sha512"
+    },
+    "System.ServiceModel.Duplex/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+JKhl0aO+IsRLBoOCBW9KhhRZPGf/LgW//PJyg5u7MQnqwa9XiPyhoNLvqItWI0HgsHo47Ee6hLgNMmIbeHbdw==",
+      "path": "system.servicemodel.duplex/4.5.3",
+      "hashPath": "system.servicemodel.duplex.4.5.3.nupkg.sha512"
+    },
+    "System.ServiceModel.Http/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z2fhqW3AfF5TAoNMXBrWk5TSxatUHeUDWwNwWtSGHq/fE0R/LIj57m0+2zxvyMSYM9sS5diKuI63pw7oWjph6g==",
+      "path": "system.servicemodel.http/4.5.3",
+      "hashPath": "system.servicemodel.http.4.5.3.nupkg.sha512"
+    },
+    "System.ServiceModel.NetTcp/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HVcEb/vrgyJV0WiJvm0pPfj+LLfOZmVSII3s+aW+wTAGJfK6Skw3v8CsI/GI2NnNKs6PDVPCgjdzr1uNXShBSA==",
+      "path": "system.servicemodel.nettcp/4.5.3",
+      "hashPath": "system.servicemodel.nettcp.4.5.3.nupkg.sha512"
+    },
+    "System.ServiceModel.Primitives/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pYVPAgle59BFXga4gEEDlJUH+siGa+P/x14FtxFSkR7nXD69uMKQSte6xNj0LTtQrX3NbAjIhHKPGYCnPeBnDg==",
+      "path": "system.servicemodel.primitives/4.5.3",
+      "hashPath": "system.servicemodel.primitives.4.5.3.nupkg.sha512"
+    },
+    "System.ServiceModel.Security/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jzEuwrNDDILTQHBSV+kZEXvU5MwLJS5viOhtmAayblt9IQaZZxpxkpvCPcH+3qpIRHV0X8jg8/0E51byrB2/Hg==",
+      "path": "system.servicemodel.security/4.5.3",
+      "hashPath": "system.servicemodel.security.4.5.3.nupkg.sha512"
+    },
+    "Modelo.Identity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\bin\Debug\netcoreapp2.1\Modelo.Identity.deps.json
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\bin\Debug\netcoreapp2.1\Modelo.Identity.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\bin\Debug\netcoreapp2.1\Modelo.Identity.pdb
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\obj\Debug\netcoreapp2.1\Modelo.Identity.csproj.CoreCompileInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\obj\Debug\netcoreapp2.1\Modelo.Identity.AssemblyInfoInputs.cache
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\obj\Debug\netcoreapp2.1\Modelo.Identity.AssemblyInfo.cs
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\obj\Debug\netcoreapp2.1\Modelo.Identity.dll
+C:\Users\rafael.simoes\Source\Repos\MRVAcelera\Modelo.Identity\obj\Debug\netcoreapp2.1\Modelo.Identity.pdb
